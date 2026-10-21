@@ -1,2 +1,0 @@
-# Kaell
-Database For Script
